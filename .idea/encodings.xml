@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-consumer-ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-consumer-ribbon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-fegin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-fegin-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-hystrix-consumer-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-hystrix-consumer-feign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-hystrix-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-hystrix-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-provider2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-provider2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-provider3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-provider3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
